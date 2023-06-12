@@ -1,0 +1,14 @@
+.celebrity_container {
+    margin: 60px;
+    
+}
+.celebrity_card {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    width: 100%;
+    box-sizing: border-box;
+    box-shadow: none;
+    border-style: none;
+    
+}

@@ -1,0 +1,47 @@
+.aboveNav {
+    display: flex;
+    justify-content: space-between;
+    width: 100;
+    padding: 25px;
+    color: rgb(167, 76, 91);
+    background-color: rgb(253, 243, 244);
+}
+
+.aboveRight {
+    display: flex;
+    justify-content: space-between;
+    width: 10%;
+    
+}
+.logo {
+    display: flex;
+    margin-right: 7%;
+    height: 70px;
+    
+    
+}
+.belowNav{
+    display: flex;
+    justify-content: center;
+   text-indent: 37px;
+   background-color: rgb(253, 243, 244);
+   width: 100vw;
+   
+   
+}
+.searchBar {
+    margin-left: 10px;
+    box-sizing: border-box;
+    box-shadow: none;
+    border-radius: 10px;
+    align-items: center;
+    background-color: rgb(253, 243, 244);
+}
+.navigation
+{
+    color: rgb(111, 39, 51);
+    font-weight: 600;
+}
+.container-fluid {
+    background-color: rgb(253, 243, 244);
+}

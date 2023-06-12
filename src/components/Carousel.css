@@ -1,0 +1,26 @@
+.wholeBody {
+    background-color: rgb(253, 243, 244);
+}
+
+.card {
+    width: 15%;  
+    box-shadow: none;
+    border: 0px;
+    border-style: none;
+}
+.bahuji_collection{
+    margin-top: 65px;
+}
+
+.container{
+    width: 100%;
+    border-style: none;
+    background-color: rgb(253, 243, 244);
+}
+
+.allCards {
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
